@@ -1,0 +1,12 @@
+.places{
+    align: border-top;
+    font-size: 30px;
+}
+
+article{
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: #FF5A5F 1px 4px;
+    font-size: 30px;
+}
